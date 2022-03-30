@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q6hJWc0pGb7/b2eoE3+NdDpvlnlkpIWYE6l/afC+b1LoQZSvGkS8GuWjExDuqkmkzgmVP+WlFLsrLidtgVZ+Fw==",
+  "success": true,
+  "projectFilePath": "/Users/taatuyu1/Projects/AB4/AB4/AB4.csproj",
+  "expectedPackageFiles": [
+    "/Users/taatuyu1/.nuget/packages/tsbe.raumfahrt/1.0.0/tsbe.raumfahrt.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

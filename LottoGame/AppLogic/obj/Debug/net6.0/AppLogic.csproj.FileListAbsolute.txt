@@ -1,0 +1,12 @@
+/Users/taatuyu1/Projects/LottoGame/AppLogic/bin/Debug/net6.0/AppLogic.deps.json
+/Users/taatuyu1/Projects/LottoGame/AppLogic/bin/Debug/net6.0/AppLogic.dll
+/Users/taatuyu1/Projects/LottoGame/AppLogic/bin/Debug/net6.0/AppLogic.pdb
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.csproj.AssemblyReference.cache
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.AssemblyInfoInputs.cache
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.AssemblyInfo.cs
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.csproj.CoreCompileInputs.cache
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.dll
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/refint/AppLogic.dll
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/AppLogic.pdb
+/Users/taatuyu1/Projects/LottoGame/AppLogic/obj/Debug/net6.0/ref/AppLogic.dll

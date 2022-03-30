@@ -1,0 +1,15 @@
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/bin/Debug/net6.0/Übungstest
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/bin/Debug/net6.0/Übungstest.deps.json
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/bin/Debug/net6.0/Übungstest.runtimeconfig.json
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/bin/Debug/net6.0/Übungstest.dll
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/bin/Debug/net6.0/Übungstest.pdb
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.csproj.AssemblyReference.cache
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.AssemblyInfoInputs.cache
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.AssemblyInfo.cs
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.csproj.CoreCompileInputs.cache
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.dll
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/refint/Übungstest.dll
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.pdb
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/Übungstest.genruntimeconfig.cache
+/Users/taatuyu1/Projects/OOP/Übungstest/Übungstest/obj/Debug/net6.0/ref/Übungstest.dll
